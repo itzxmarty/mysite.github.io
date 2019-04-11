@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.h1red{
+	margin-left: 50px;
+	color: red;
+    font-size: 40px;
+	font-family: 'Lobster', cursive;
+}
+.h2red{
+	color: red;
+    font-size: 40px;
+	font-family: 'Lobster', cursive;
+}
+.min{
+	color: white;
+}
+.text-center a{
+	float: left;
+}
+.text-center h1{
+	margin-top: -1px;
+}
+.backbtn{
+	 position: absolute;
+	 margin-top: 0px;
+	 font-size: 15px; 
+     color: white;
+	transition: 0.5s all;
+}
+.backbtn:hover{
+	font-size: 20px;
+	border-bottom: 2px solid;
+	color: orange;
+	text-decoration: none;
+	
+}
+.cr1{
+	margin-top: 80px;
+}
+
+
+
+
+
+
+
+
+

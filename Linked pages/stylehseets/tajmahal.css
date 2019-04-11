@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bgimg1{
+	background: url("../images for linked pages/taj mahal history images/tajmbg.jpg")no-repeat;
+	background-attachment: fixed;
+}
+
+.bgimg2{
+	background: url( "../images for linked pages/taj mahal history images/tajmbg2.jpg")no-repeat;
+	background-attachment: fixed;
+}
+.bgimg3{
+	background: url("../images for linked pages/taj mahal history images/tajmbg3.jpg")no-repeat;
+	background-attachment: fixed;
+}
